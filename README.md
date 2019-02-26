@@ -12,8 +12,9 @@ To bring Altis Life RPG to a famous map on Arma 3 called "Takistan". We updated 
 
 ******Techinical Info:******
 
-Server_Files_Core contains critical server files that communicate with the client, dedicated server and the extDB(SQL database).
-scripts contains core .sqf files to allow direct server & client communication. This file also allows the client to communicate with 'modifications' to the original Arma 3 base game.
+1) Server_Files_Core -- contains critical server files that communicate with the client, dedicated server and the extDB(SQL database).
+
+2) Scripts -- contains core .sqf files to allow direct server & client communication. This file also allows the client to communicate with 'modifications' to the original Arma 3 base game.
 
 
 
