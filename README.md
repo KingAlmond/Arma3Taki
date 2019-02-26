@@ -6,11 +6,11 @@ This project is built on the framework Altis Life RPG by Tonic and editted by Ki
 ------------------
 
 
-******Purpose:******
+**Purpose:**
 
 To bring Altis Life RPG to a famous map on Arma 3 called "Takistan". We updated the original framework to work with the current version of the game (at the time Arma 3 1.64). Further, we introduced more functionality into the RPG framework such as keycards, persistence and GPS tracking.
 
-******Techinical Info:******
+**Techinical Info:**
 
 1) Server_Files_Core -- contains critical server files that communicate with the client, dedicated server and the extDB(SQL database).
 
