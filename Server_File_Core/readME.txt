@@ -1,0 +1,3 @@
+/*********************
+THIS FILE IS NOT COMPLETE, SIMPLY THE CORE FILES FOR THE SERVER_SIDE SCRIPTS TO FUNCTION
+**********************/
