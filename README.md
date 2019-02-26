@@ -1,9 +1,10 @@
 # Arma3Taki
 A modification for Arma 3 - RPG gamemode on Takistan.
 
-------------------
-This project is built on the framework Altis Life RPG by Tonic and editted by KingAlmond & Coyn for STD's Arma 3 Takistan Life. Project work contains edits from various authors including but not limited to Listek & Kraken. Note: These are snippets from the entire project.
-------------------
+
+
+**This project is built on the framework Altis Life RPG by Tonic and editted by KingAlmond & Coyn for STD's Arma 3 Takistan Life. Project work contains edits from various authors including but not limited to Listek & Kraken. Note: These are snippets from the entire project.**
+
 
 
 **Purpose:**
